@@ -1,0 +1,29 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+[[mods]] #mandatory
+modId="catland" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Cat Land" #mandatory
+logoFile="logo.png" #optional
+credits="Thanks for this minecraft 1.16.5 modyfication pack goes to Olex7" #optional
+authors="Olex7"
+description='''
+
+Cat's Power used by Olex7!
+
+by Olex7.
+
+'''
+[[dependencies.catland]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.catland]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

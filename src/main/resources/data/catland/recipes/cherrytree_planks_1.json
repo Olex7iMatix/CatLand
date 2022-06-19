@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "catland:cherrytree_log"
+		}
+	],
+	"result": {
+		"item": "catland:cherrytree_planks",
+		"count": 4
+	}
+}

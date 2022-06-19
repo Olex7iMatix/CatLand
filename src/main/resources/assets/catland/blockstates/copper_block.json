@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "catland:block/copper_block" }
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"axis=x": {
+			"model": "catland:block/cherrytree_log_horizontal",
+			"x": 90,
+			"y": 90
+		},
+		"axis=y": {
+			"model": "catland:block/cherrytree_log"
+		},
+		"axis=z": {
+			"model": "catland:block/cherrytree_log_horizontal",
+			"x": 90
+		}
+	}
+}

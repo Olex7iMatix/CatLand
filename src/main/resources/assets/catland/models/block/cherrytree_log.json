@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "catland:block/cherrytree_log_top",
+    "side": "catland:block/cherrytree_log"
+  }
+}

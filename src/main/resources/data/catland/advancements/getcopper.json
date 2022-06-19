@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "catland:copper"
+    },
+    "title": "catland.advancement.name.getcopper",
+    "description": "catland.advancement.description.getcopper",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      	"items": [
+      		{
+      			"items": [
+      				"catland:copper"
+      			]
+      		}
+      	]
+      }
+    }
+  }
+}

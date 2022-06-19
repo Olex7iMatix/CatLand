@@ -1,0 +1,28 @@
+{
+	"item.catland.copper": "Copper Ingot",
+	"item.catland.copper_wire": "Copper Wire",
+	"item.catland.bronze": "Bronze Ingot",
+	"item.catland.bronze_sword": "Bronze Sword",
+	"item.catland.bronze_axe":"Bronze Axe",
+	"item.catland.bronze_pickaxe": "Bronze Pickaxe",
+	"item.catland.bronze_shovel": "Bronze Shovel",
+	"item.catland.bronze_hoe": "Bronze Hoe",
+	"item.catland.cathearth": "Cat's hearth",
+	
+	"block.catland.copper_ore": "Copper Ore",
+	"block.catland.copper_block": "Copper Block",
+	"block.catland.cherrytree_log": "Cherry Tree Log",
+	"block.catland.cherrytree_wood": "Cherry Tree Wood",
+	"block.catland.cherrytree_planks": "Cherry Tree Planks",
+	"block.catland.stripped_cherrytree_log": "Stripped Cherry Tree Log",
+	"block.catland.stripped_cherrytree_wood": "Stripped Cherry Tree Wood",
+	
+	"itemGroup.catlandIngotsTab": "CatLand Ingots",
+	"itemGroup.catlandBlocksTab": "CatLand Blocks",
+	"itemGroup.catlandToolsTab": "CatLand Tools",
+	
+	"catland.advancement.name.getcopper": "Get Copper",
+	"catland.advancement.description.getcopper": "",
+	
+	"fluid.catland.oil": "Oil"
+}

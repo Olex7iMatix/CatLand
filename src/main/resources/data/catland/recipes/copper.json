@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "catland:copper_ore"
+	},
+	"result": "catland:copper",
+	"experience": 0,
+	"cookingtime": 200
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/leaves",
+	"textures": {
+		"all": "catland:block/cherrytree_leaves"
+	}
+}
